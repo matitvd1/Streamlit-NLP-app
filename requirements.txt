@@ -4,5 +4,4 @@ streamlit
 nltk
 sklearn
 textacy
-PIL
 unicode
