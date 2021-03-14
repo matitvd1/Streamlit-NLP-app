@@ -1,0 +1,10 @@
+numpy
+pandas
+pickle
+streamlit
+re
+nltk
+sklearn
+textacy
+PIL
+unicode
